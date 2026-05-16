@@ -45,17 +45,40 @@
 </p>
 
 ---
+## 📡 Learning Radar
 
-## 📊 GitHub Stats
+| Technology | Status |
+|------------|--------|
+| Linux | ████████░░ 80% |
+| Git & GitHub | ███████░░░ 70% |
+| AWS | ████░░░░░░ 40% |
+| Docker | ███░░░░░░░ 30% |
+| Kubernetes | █░░░░░░░░░ 10% |
+---
+## 🐧 Linux Personality
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shahid-afrid07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-afrid07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+```bash
+$ sudo whoami
+shahid
+
+$ cat interests.txt
+Cloud Computing
+Linux
+Automation
+Backend Development
+
+$ uptime
+Learning 24/7
+```
+## 🌌 Philosophy
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
+<p align="center">
+  <i>Building skills one commit at a time 🚀</i>
+</p>
 ## 🔥 GitHub Streak
 
 <p align="center">
