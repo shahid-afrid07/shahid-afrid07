@@ -33,30 +33,30 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+
 ## 📊 GitHub Stats
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahid-afrid07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=shahid-afrid07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <td colspan="2" align="center" valign="top">
+      <img width="70%" src="https://streak-stats.demolab.com/?user=shahid-afrid07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-afrid07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+      <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahid-afrid07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
     </td>
     <td width="50%" align="center" valign="top">
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahid-afrid07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
     </td>
   </tr>
 </table>
+<table>
+  <td width="50%" align="center" valign="top">
+  <<img width="100%" src="https://github-stats-extended.vercel.app/api?username=shahid-afrid07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </td>
+</table>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
 
 ## 🏆 GitHub Trophies
 
@@ -105,8 +105,8 @@ Learning 24/7
 ```
 ## 🌌 Philosophy
 
-> First, solve the problem. Then, write the code.
-> Problem-solver — focuses on finding a way to fix an issue rather than just being familiar with it
+> ⦿ First, solve the problem. Then, write the code.<br>
+> ⦿ Problem-solver — focuses on finding a way to fix an issue rather than just being familiar with it.
 
 ---
 
